@@ -4,6 +4,12 @@ Este projeto demonstra o uso do **padrão de projeto Facade** em Java, aplicado 
 
 ## 📌 Estrutura
 
+
+  ***DIAGRAMA DE CLASSES***
+
+  <img width="709" height="563" alt="589791475-6f7012d0-c601-4ad9-9d36-2a203bb986d1" src="https://github.com/user-attachments/assets/71a1a5a8-03f9-47c9-8871-f6aab8098b2f" />
+
+
 - **Classe abstrata**
   - `Departamento` → define a estrutura comum para departamentos, mantendo lista de clientes com pendências.
 
